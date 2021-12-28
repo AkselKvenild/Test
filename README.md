@@ -1,7 +1,7 @@
 # Test
 Dette er en test.
 
-##Linker
+LINKER
 
 Link1
 Link2
